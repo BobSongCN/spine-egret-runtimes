@@ -1,0 +1,18 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+		"noImplicitAny": false,
+		"sourceMap": true,
+		"declaration": true,
+		"outFile": "bin/spine-egret-runtimes.js",
+		"lib": [
+            "dom",
+            "es6"
+        ]
+	},
+	"include": [
+		"src/egret",
+        "src/core",
+        "src/impl"
+	]
+}
