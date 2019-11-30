@@ -49,6 +49,9 @@ Several classes or structures have been added, all be declared within namespace 
 - `SpineEvent` Enums of animation events.
 - `Track` Track abstraction for SkeletonAnimation.
 
+## Blog
+> https://www.bobsong.net
+
 ## Issues
 
 - 未叠加颜色
