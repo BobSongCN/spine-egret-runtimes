@@ -7,7 +7,7 @@
 > Demo:https://www.bobsong.net/spine-egret-runtimes-example/.
 
 ## Preview
-![img](https://bobsongblog.oss-cn-hangzhou.aliyuncs.com/www_bobsong_net/usr/uploads/2019/11/1734530915.png)
+![img](https://github.com/BobSongCN/spine-egret-runtimes/blob/master/preview.png)
 
 ## Installing
 > See [Egret document](http://developer.egret.com/cn/github/egret-docs/Engine2D/projectConfig/libraryProject/index.html) for integrating to Egret project.
