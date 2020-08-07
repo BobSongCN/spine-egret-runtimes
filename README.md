@@ -41,16 +41,9 @@ private loadSpineAnimation(skeletonName: string) {
 }
 ```
 
-## Learn more
-Several classes or structures have been added, all be declared within namespace spine to minimize impact.
-- `createSkeletonData`  Helper for creating skeleton data.
-- `createTextureAtlas` Helper for creating texture atlas.
-- `SkeletonAnimation` A user-friendly animation manager.
-- `SkeletonRenderer` A mere skeleton renderer
-- `SlotRenderer` Slot renderer for SkeletonRenderer.
-- `EventEmitter` Embbeded implemation of event emitter.
-- `SpineEvent` Enums of animation events.
-- `Track` Track abstraction for SkeletonAnimation.
+## 参考
+> https://github.com/fightingcat/egret-spine
+本库再上诉库基础上修改的
 
 ## Blog
 > https://www.bobsong.net
